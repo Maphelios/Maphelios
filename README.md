@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-(https://giphy.com/gifs/hackers-mainframe-waywaw-TOWeGr70V2R1K) 
+!(https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif) 
