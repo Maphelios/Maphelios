@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Phantochi/Phantochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif 
+(https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif) 
