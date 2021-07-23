@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         
 
-What's up! ![](https://tenor.com/view/deadpool-marvel-sticker-love-pizza-gif-15665631)
+
+What's up! ![](https://media.tenor.com/images/2a8b31bea97c6361d9208b9f501fe980/tenor.gif)
 
 💻 I'm just a full-stack learning from mistakes of others who take my advice.
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning.
