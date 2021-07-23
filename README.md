@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         
 
 
-What's up! <img src="https://user-images.githubusercontent.com/60182775/126830033-ee234b31-3090-463e-a53c-06365192bce3.png" width="400" height="790">
+What's up! <img src="https://user-images.githubusercontent.com/60182775/126830033-ee234b31-3090-463e-a53c-06365192bce3.png" width="50" height="50">
 
 
 💻 I'm just a full-stack learning from mistakes of others who take my advice.
