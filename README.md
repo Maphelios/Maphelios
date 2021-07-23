@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         
 
 
-What's up! ![](https://media.tenor.com/images/2a8b31bea97c6361d9208b9f501fe980/tenor.gif = 250x250)
+What's up! ![](https://media.tenor.com/images/2a8b31bea97c6361d9208b9f501fe980/tenor.gif =50x50)
 
 💻 I'm just a full-stack learning from mistakes of others who take my advice.
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning.
