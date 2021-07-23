@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif) 
+![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         💻 I'm just a full-stack learning from mistakes of others who take my advice.
+                                                                                    🚀 Currently diving in Cybersecurity, Cloud & Machine Learning.
