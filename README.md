@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         
 
 
-What's up! ![](https://media.tenor.com/images/2a8b31bea97c6361d9208b9f501fe980/tenor.gif =50x50)
+What's up! ![SpidermanL](https://user-images.githubusercontent.com/60182775/126830033-ee234b31-3090-463e-a53c-06365192bce3.png)
+
 
 💻 I'm just a full-stack learning from mistakes of others who take my advice.
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning.
