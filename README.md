@@ -23,6 +23,7 @@ What's up! <br/>
 
 💻 I'm just a full-stack learning from mistakes of others who take my advice. <br/>
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning. <br/>
+📝 I play around with [Github Gist](https://gist.github.com/Hibukim) every now and then.
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
 let's rock the future!
