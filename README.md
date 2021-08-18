@@ -26,8 +26,9 @@ What's up! <br/>
 📝 I play around with [Github Gist](https://gist.github.com/Hibukim) every now and then.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibukim&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibukim)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
 let's rock the future!
