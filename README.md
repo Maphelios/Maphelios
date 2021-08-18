@@ -27,3 +27,7 @@ What's up! <br/>
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
 let's rock the future!
+
+
+[![Hibukim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibukim)](https://github.com/anuraghazra/github-readme-stats)
+
