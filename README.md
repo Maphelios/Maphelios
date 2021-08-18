@@ -29,5 +29,6 @@ Languages and tools:
 let's rock the future!
 
 
-[![Hibukim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibukim)](https://github.com/anuraghazra/github-readme-stats)
+![Hibukim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibukim&hide=contribs,prs)
+
 
