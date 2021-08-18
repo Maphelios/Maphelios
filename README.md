@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         
 
 <br/>
-<br/>
 
 What's up! <br/>
 
@@ -26,7 +25,6 @@ What's up! <br/>
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning. <br/>
 📝 I play around with [Github Gist](https://gist.github.com/Hibukim) every now and then.
 
-<br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibukim&langs_count=15&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
