@@ -29,9 +29,7 @@ What's up! <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibukim&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ery2b5q99ejxjixci4tmdvjf&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ery2b5q99ejxjixci4tmdvjf&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
