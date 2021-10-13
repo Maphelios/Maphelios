@@ -34,7 +34,8 @@ What's up! <br/>
 Languages and tools:
 let's rock the future!
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ery2b5q99ejxjixci4tmdvjf&cover_image=true&theme=default&bar_color=4eb151&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ery2b5q99ejxjixci4tmdvjf&cover_image=true&theme=default&bar_color=4eb151&bar_color_cover=true)]
+(https://github.com/kittinan/spotify-github-profile)
+<br/>
 
