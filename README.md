@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 What's up! <br/>
 
-💻 I'm just a full-stack learning from mistakes of others who take my advice. <br/>
+💻 I'm just a DevOps learning from mistakes of others who take my advice. <br/>
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning. <br/>
 📝 I play around with [Github Gist](https://gist.github.com/Hibukim) every now and then.
 
