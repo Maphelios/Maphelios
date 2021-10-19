@@ -31,7 +31,7 @@ What's up! <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ery2b5q99ejxjixci4tmdvjf&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-![Snake animation](https://github.com/Hibukim)
+![Snake animation](https://github.com/Hibukim/Hibukim/blob/output/github-contribution-grid-snake.svg)
 
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
