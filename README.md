@@ -29,7 +29,7 @@ What's up! <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibukim&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ery2b5q99ejxjixci4tmdvjf&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iftpwf6urtyadakyu7eehbot2m&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31iftpwf6urtyadakyu7eehbot2m&redirect=true)
 
 ![Snake animation](https://github.com/Hibukim/Hibukim/blob/output/github-contribution-grid-snake.svg)
 
