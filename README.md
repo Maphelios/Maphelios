@@ -23,15 +23,15 @@ What's up! <br/>
 
 💻 I'm just a DevOps learning from mistakes of others who take my advice. <br/>
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning. <br/>
-📝 I play around with [Github Gist](https://gist.github.com/Hibukim) every now and then.
+📝 I play around with [Github Gist](https://gist.github.com/Maphelios) every now and then.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibukim&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maphelios&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iftpwf6urtyadakyu7eehbot2m&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31iftpwf6urtyadakyu7eehbot2m&redirect=true)
 
-![Snake animation](https://github.com/Hibukim/Hibukim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Maphelios/Maphelios/blob/output/github-contribution-grid-snake.svg)
 
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
