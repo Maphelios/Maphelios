@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 📫 How to reach me: my site, linkedIn and instagram
 -->
 
-
-![](https://media1.giphy.com/media/TOWeGr70V2R1K/giphy.gif)                         
-
-<br/>
-
 What's up! <br/>
 
 💻 I'm just a DevOps learning from mistakes of others who take my advice. <br/>
