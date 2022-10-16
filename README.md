@@ -20,7 +20,7 @@ What's up! <br/>
 🚀 Currently diving in Cybersecurity, Cloud & Machine Learning. <br/>
 📝 I play around with [Github Gist](https://gist.github.com/Phantochi) every now and then.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dniasvncorjp5ifbjqxwick75i&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=b14e4e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31dniasvncorjp5ifbjqxwick75i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dniasvncorjp5ifbjqxwick75i&cover_image=true&theme=default&show_offline=false&bar_color=59159d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31dniasvncorjp5ifbjqxwick75i&redirect=true)
 
 <br/>
 
