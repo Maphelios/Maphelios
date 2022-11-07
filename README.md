@@ -23,7 +23,7 @@ What's up! <br/>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantochi&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aphellirus&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -31,7 +31,7 @@ What's up! <br/>
 
 <br/>
 
-![Snake animation](https://github.com/Maphelios/Maphelios/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aphellirus/Aphellirus/blob/output/github-contribution-grid-snake.svg)
 
 <!--Feel free to hit me up on [LinkedIn](Link URL), [Instagram](Link URL), [Link Text](Link URL), [Link Text](Link URL), [Link Text](Link URL)
 Languages and tools:
