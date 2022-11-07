@@ -18,7 +18,7 @@ What's up! <br/>
 
 💻 I'm just a DevOps learning from mistakes of others who take my advice. <br/>
 🚀 Currently diving in Cybersecurity & Cloud technologies. <br/>
-📝 I play around with [Github Gist](https://gist.github.com/Phantochi) every now and then.
+📝 I play around with [Github Gist](https://gist.github.com/Aphellirus) every now and then.
 
 
 <br/>
@@ -27,7 +27,7 @@ What's up! <br/>
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dniasvncorjp5ifbjqxwick75i&cover_image=true&theme=default&show_offline=false&bar_color=59159d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31dniasvncorjp5ifbjqxwick75i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z6ry3t7gyzbtnyh7jq4pxaacdm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31z6ry3t7gyzbtnyh7jq4pxaacdm&redirect=true)
 
 <br/>
 
