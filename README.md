@@ -23,7 +23,7 @@ What's up! <br/>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aphellirus&langs_count=20&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aphellirus)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
